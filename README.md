@@ -1,6 +1,6 @@
 # npmtest-styled-jsx
 
-#### test coverage for  [styled-jsx (v0.5.7)](https://github.com/zeit/styled-jsx#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-styled-jsx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-styled-jsx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-styled-jsx.svg)](https://travis-ci.org/npmtest/node-npmtest-styled-jsx)
+#### basic test coverage for  [styled-jsx (v0.5.7)](https://github.com/zeit/styled-jsx#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-styled-jsx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-styled-jsx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-styled-jsx.svg)](https://travis-ci.org/npmtest/node-npmtest-styled-jsx)
 
 #### Full CSS support for JSX without compromises
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-styled-jsx/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-styled-jsx/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-styled-jsx/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-styled-jsx/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-styled-jsx/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-styled-jsx/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-styled-jsx/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-styled-jsx/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-styled-jsx/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-styled-jsx/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-styled-jsx/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-styled-jsx/build/coverage.html/index.html)
 
@@ -149,7 +149,8 @@
             "import/no-unresolved": 0,
             "new-cap": 0
         }
-    }
+    },
+    "bin": {}
 }
 ```
 
